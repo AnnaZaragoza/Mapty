@@ -5,7 +5,7 @@
 # Description:
 
 Check your workouts - app that collects your running or cycling workouts pointing them in a map.
-Check the app here: [Mapty](https://annazaragoza.net/mapty/index.html).
+Check the app here: [Mapty](https://mapty-anna-zaragoza.netlify.app/).
 
 ### Exercice to practice JavaScript:
 
