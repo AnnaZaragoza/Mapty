@@ -21,7 +21,7 @@ html {
 }
 
 body {
-  font-family: 'Manrope', sans-serif;
+  font-family: "Manrope", sans-serif;
   color: var(--color-light--2);
   font-weight: 400;
   line-height: 1.6;
@@ -32,6 +32,18 @@ body {
   padding: 2.5rem;
 
   display: flex;
+}
+
+@media only screen and (max-width: 900px) {
+  body {
+    display: block;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  body {
+    padding: 0rem;
+  }
 }
 
 /* GENERAL */
@@ -47,6 +59,12 @@ a:visited {
   padding: 3rem 5rem 4rem 5rem;
   display: flex;
   flex-direction: column;
+}
+
+@media only screen and (max-width: 400px) {
+  .sidebar {
+    padding: 0.3rem;
+  }
 }
 
 .logo {
@@ -126,6 +144,12 @@ a:visited {
   /* Match height and activity boxes */
   height: 9.25rem;
   transition: all 0.5s, transform 1ms;
+}
+
+@media only screen and (max-width: 400px) {
+  .form {
+    padding: 0.25rem;
+  }
 }
 
 .form.hidden {
