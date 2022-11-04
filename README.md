@@ -5,6 +5,7 @@ Tracker of your running and cycling workouts - pointing them in a map.
 Live Demo: [Mapty](https://annazaragoza.net/mapty/).
 
 ## Technologies Used
+- Single Page App (SPA)
 - Object Oriented Programming (OOP)
 - Geolocation API
 - Leaflet (3rd party library)
