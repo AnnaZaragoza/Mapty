@@ -30,12 +30,19 @@ $ cd Mapty.git
 App that tracks your running and cycling workouts.
 It detects your location, renders a map and allows you to collect your running or cycling workouts.
 To introduce the workout, first you need to click on the map the place where the exercice was performed. Then, a form will appear where you can introduce the data. 
-The data will be shown (and saved) either as a list of workouts and as a pointer in the map.
+The data will be shown (and saved) either as a list of workouts and as a pointer in the map and the day will be added.
 
 ## Features
 - Running data: distance, duration and cadence.
 - Cycling data: distance, duration and elevation gain.
-- Map pointer.
+- Map pointer opens the form
+- When clicking workout in the list, map takes you smoothly into the workout in the map.
+
+
+## Improvements
+- Responsiveness
+- Sort workouts (by date or by best performance or by type)
+- Delete workouts
 
 
 ## Acknowledgements
