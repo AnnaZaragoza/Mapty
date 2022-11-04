@@ -13,19 +13,21 @@ Live Demo: [Mapty](https://annazaragoza.net/mapty/).
 - Local Storage
 
 ## Setup
-To clone this repository you will need 'Git' and 'Node.js'.
+To clone this repository you will need `Git` and `Node.js`.
 
-'# Clone this repository'
-'$ git clone https://github.com/AnnaZaragoza/Mapty.git'
+```
+# Clone this repository
+$ git clone https://github.com/AnnaZaragoza/Mapty.git
 
-'# Go into the repository'
-'$ cd Mapty.git'
+# Go into the repository
+$ cd Mapty.git
 
-'# Install dependencies'
-'$ npm install'
+# Install dependencies
+$ npm install
 
-'# Run the app'
-'$ npm start'
+# Run the app
+$ npm start
+```
 
 ## General Information
 
