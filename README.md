@@ -30,10 +30,16 @@ $ npm start
 ```
 
 ## General Information
-
+App that tracks your running and cycling workouts.
+It detects your location, renders a map and allows you to collect your running or cycling workouts.
+To introduce the workout, first you need to click on the map the place where the exercice was performed. Then, a form will appear where you can introduce the data. 
+The data will be shown (and saved) either as a list of workouts and as a pointer in the map.
 
 ## Features
-- Manage form data, rendering and creating objects
+- Running data: distance, duration and cadence.
+- Cycling data: distance, duration and elevation gain.
+- Map pointer.
+
 
 ## Acknowledgements
 - This project has been created along with the teacher of this tutorial: [The Complete JavaScript Course 2022: From Zero to Expert!]([https://www.example.com](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22628657#content)).
