@@ -42,6 +42,6 @@ The data will be shown (and saved) either as a list of workouts and as a pointer
 
 
 ## Acknowledgements
-- This project has been created along with the teacher of this tutorial: [The Complete JavaScript Course 2022: From Zero to Expert!]([https://www.example.com](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22628657#content)).
+- This project has been created along with the teacher of this tutorial: [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.example.com](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22628657#content)).
 - It is then a copy of his work (done for learning purposes)
 - Many thanks to Jonas Schmedtmann (the teacher)
