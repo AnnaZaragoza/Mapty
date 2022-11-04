@@ -75,7 +75,7 @@ class App {
   #mapEvent;
   #workouts = [];
 
-  // CONSTRUCTOR: Where all the code that is executed when the pages loads
+  // CONSTRUCTOR: Where all the code that is executed when page is loaded
   constructor() {
     // Get user's position
     this._getPosition();
